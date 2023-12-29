@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalShutterbug.Tools.PowerShell", "src\DigitalShutterbug.Tools.PowerShell\DigitalShutterbug.Tools.PowerShell.csproj", "{0E3B27BC-C274-4A7E-A691-94F9BF0BDE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3B27BC-C274-4A7E-A691-94F9BF0BDE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3B27BC-C274-4A7E-A691-94F9BF0BDE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3B27BC-C274-4A7E-A691-94F9BF0BDE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3B27BC-C274-4A7E-A691-94F9BF0BDE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4C74C8-723E-46F1-828B-FE87A02F93DD}
+	EndGlobalSection
+EndGlobal
